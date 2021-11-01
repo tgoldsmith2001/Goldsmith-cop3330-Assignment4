@@ -43,5 +43,8 @@ public class Controller {
     from "storage" to master list
 
     Recover all button: Allows user to add all todo lists from "storage" to master list
+
+    Note: you can hover over todo lists to bring up a drop down box of all items in that todo list then
+    you can hover over each item to see all the attributes of that item
      */
 }
